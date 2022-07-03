@@ -1,1 +1,1 @@
-# ideal-octo-sniffle
+# landing page
