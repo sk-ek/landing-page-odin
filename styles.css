@@ -34,7 +34,6 @@ body {
 }
 
 .header {
-  height: 100%;
   background-color: #1f2937;
   display: flex;
   padding: 64px;
@@ -49,11 +48,17 @@ body {
   flex-basis: 32px;
   color: white;
   font-weight: bold;
+  /* change button */
+  width: 114px;
+}
+.header button:hover {
+  background-color: white;
+  color: #3882f6;
 }
 .content {
   display: flex;
   flex-flow: column wrap;
-  width: 28%;
+  width: 30%;
 }
 
 .header h1 {
