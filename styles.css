@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
 * {
   font-family: "Roboto";
 }
@@ -28,7 +30,6 @@ body {
 }
 
 .container h3 {
-  font-weight: bolder;
   font-size: 24px;
   color: #f9faf8;
 }
@@ -47,7 +48,7 @@ body {
   border-radius: 4px;
   flex-basis: 32px;
   color: white;
-  font-weight: bold;
+  font-weight: 700;
   /* change button */
   width: 114px;
 }
@@ -63,7 +64,7 @@ body {
 
 .header h1 {
   font-size: 48px;
-  font-weight: extra-bold;
+  font-weight: 900;
   color: #f9faf8;
   padding: 0;
   margin: 0;
