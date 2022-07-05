@@ -22,6 +22,7 @@ body {
   align-items: center;
 }
 .container ul {
+  flex-wrap: wrap;
   display: flex;
   gap: 32px;
   list-style-type: none;
@@ -195,3 +196,5 @@ body {
   color: #e5e7eb;
   text-align: center;
 }
+
+/* TODO: make webstie responsive */
