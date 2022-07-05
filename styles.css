@@ -140,3 +140,17 @@ body {
 .quote-section h2 {
   padding-top: 0;
 }
+
+.sign-up-box-container {
+  height: 325px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sign-up-box {
+  border-radius: 10px;
+  background-color: #3882f6;
+  height: 50%;
+  width: 75%;
+}
