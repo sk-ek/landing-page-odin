@@ -181,3 +181,9 @@ body {
   font-weight: 700;
   border: 1.5px solid #e5e7eb;
 }
+
+.sign-up-box button:hover {
+  background-color: white;
+  color: #3882f6;
+  border-color: #3882f6;
+}
