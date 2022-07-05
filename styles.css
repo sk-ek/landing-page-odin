@@ -187,3 +187,11 @@ body {
   color: #3882f6;
   border-color: #3882f6;
 }
+
+.footer {
+  background-color: #1f2937;
+  margin: 0;
+  padding: 15px;
+  color: #e5e7eb;
+  text-align: center;
+}
