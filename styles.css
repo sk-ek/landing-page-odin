@@ -148,7 +148,14 @@ body {
   align-items: center;
 }
 
+.text {
+  color: #e5e7eb;
+}
+
 .sign-up-box {
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
   border-radius: 10px;
   background-color: #3882f6;
   height: 50%;
